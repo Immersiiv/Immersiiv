@@ -1,12 +1,11 @@
 <a href="https://discord.com/users/384787216863330305" target="_blank">
-	<img width="45%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/384787216863330305?bg=1f1f1f&borderRadius=10px">
+	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/384787216863330305?bg=1f1f1f&borderRadius=10px">
 </a>
 
 ## About Me :
-
-  - French developer, based on Java & JS development
-	- But I also know the others :
-
+<img width="4%" align=left src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/fr.png"> » __Fier d'être Français__ ! <img width="9%" align="left" src="https://skillicons.dev/icons?i=discord,instagram,twitter"> <br>
+  - Developer based on Java, JavaScript & Kotlin development
+  	- But I also know the others :
 ## Skills:
   <a href="https://skillicons.dev">
     <img width="40%" align="left" src="https://skillicons.dev/icons?i=java,js,nodejs,html,css,py,gradle,kotlin" alt="Java, JavaScript, Node.js, HTML, CSS, Python, Gradle, Kotlin">
@@ -14,14 +13,13 @@
 
 ## Tools:
   <a href="https://skillicons.dev">
-    <img width="15%" align="left" src="https://skillicons.dev/icons?i=idea,vscode," alt="IntelliJ IDEA, Visual Studio Code">
+    <img width="15%" align="left" src="https://skillicons.dev/icons?i=idea,vscode,eclipse" alt="IntelliJ IDEA, Visual Studio Code, Eclipse">
   </a><br>
 
-## Social medias:
+## Projects: 
   <a href="https://skillicons.dev">
-    <img width="15%" align="left" src="https://skillicons.dev/icons?i=twitter,instagram,discord" alt="Twitter, Instagram, Discord">
-  </a><br>
-
+    <img width="10%" align="left" src="https://skillicons.dev/icons?i=bots,java"> 
+  </a> API Discord & Minecraft Project...
 <a>
 	<img width="45%" align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Immersiiv&show_icons=true&theme=midnight-purple">
-</a><br><br>  
+</a>
