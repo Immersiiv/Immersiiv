@@ -3,7 +3,7 @@
 </a>
 
 ## About Me :
-<img width="4%" align=left src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/fr.png"> » __Fier d'être Français__ ! <img width="9%" align="left" src="https://skillicons.dev/icons?i=discord,instagram,twitter"> <br>
+<img width="4%" align=left src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/fr.png"> » __Fier d'être Français__ ! <img width="10%" align="left" src="https://skillicons.dev/icons?i=discord,instagram,twitter"><br>
   - Developer based on Java, JavaScript & Kotlin development
   	- But I also know the others :
 ## Skills:
@@ -20,6 +20,3 @@
   <a href="https://skillicons.dev">
     <img width="10%" align="left" src="https://skillicons.dev/icons?i=bots,java"> 
   </a> API Discord & Minecraft Project...
-<a>
-	<img width="45%" align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Immersiiv&show_icons=true&theme=midnight-purple">
-</a>
